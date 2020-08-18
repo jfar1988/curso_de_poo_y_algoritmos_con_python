@@ -1,0 +1,6 @@
+/*Búsqueda Lineal(algoritmos de búsqueda y ordenación)
+    
+    Busca en todos los elementos de manera secuencial. Buscando en una lista de posibles codigos que solucionen el problema
+    
+    
+    /*
