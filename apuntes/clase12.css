@@ -1,0 +1,7 @@
+¿Que es el crecimiento asintotico?
+    Es un metodo de descripcion del comportamiento en el limite(tiende al infinito)
+Clases de complejidad algoritmica
+    - O(1) constante: Tiempo constante
+    - O(n) Lineal: Proporcional a medida que crece el input
+    - O(logn) Logaritmica: inicia con un crecimiento rapido, pero luego se estabiliza
+    - O(nLogn) Log Lineal: 
