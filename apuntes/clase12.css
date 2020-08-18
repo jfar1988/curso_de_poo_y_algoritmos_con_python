@@ -1,7 +1,13 @@
-¿Que es el crecimiento asintotico?
+/*¿Que es el crecimiento asintotico?
     Es un metodo de descripcion del comportamiento en el limite(tiende al infinito)
 Clases de complejidad algoritmica
-    - O(1) constante: Tiempo constante
+    - O(1) constante: no importa cuanto crezca input el output(algoritmo) se tardara el mismo Tiempo constante
     - O(n) Lineal: Proporcional a medida que crece el input
     - O(logn) Logaritmica: inicia con un crecimiento rapido, pero luego se estabiliza
-    - O(nLogn) Log Lineal: 
+    - O(nLogn) Log Lineal: Si crecera de manera logaritmica pero con una constante.
+    - O(n**2) Polinomial: crece de forma cuadrática. No son recomendables a menos que el input de datos sea pequeño
+    - O(2**n) Exponencial: crecerá de forma exponencial, por lo que la carga es muy alta. Para nada recomendable en ningún caso, solo para análisis conceptual.
+    - O(n!) Factorial: Crece de forma factorial, por lo que al igual que el exponencial su carga es muy alta, por lo que jamas utilizar algoritmos de este tipo.
+    
+    
+    /*
